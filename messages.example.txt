@@ -1,0 +1,94 @@
+[4:27 PM, 12/29/2016] +91 94218 16066: Guys, We are looking for a system where we can do following activities:
+
+1. Project Management Activities
+2. Task Management, task progress, reporting
+3. Bugs Tracking, bugs reports, progress
+4. Daily, weekly, monthly progress reports of our team
+5. Project Reports against timelines, resources consumption, etc.
+
+Any recommendations from your past experience?
+Thanks.                        
+[4:30 PM, 12/29/2016] +91 99750 42434: Trello, Zoho project, Microsoft Team foundation Server (TFS) -A part of visual studio.                        
+[4:38 PM, 12/29/2016] +91 99603 92976: Jira?                        
+[4:39 PM, 12/29/2016] +91 94218 16066: Trello is too simple
+Zoho evaluating.. 
+
+Would like to get personal experiences of using those systems                        
+[4:39 PM, 12/29/2016] +91 86009 92559: JIRA, Asana                        
+[4:39 PM, 12/29/2016] +91 99755 91192: Check dotproject                        
+[4:40 PM, 12/29/2016] +91 94218 16066: @ have you used it personally to manage a team?                        
+[4:40 PM, 12/29/2016] +91 94218 16066: Asana is tooo generic                        
+[4:40 PM, 12/29/2016] +91 94218 16066: We need something tailored to the software development process ..                        
+[4:40 PM, 12/29/2016] +91 99705 75067: Jira 👍🏻                        
+[4:40 PM, 12/29/2016] +91 99755 91192: Jira is advanced for agile                        
+[4:41 PM, 12/29/2016] Tarique Sani: +1 for Jira and Asana. Also look for cross compatibility in applications don't look for an all in one monolithic app                        
+[4:42 PM, 12/29/2016] +91 99603 92976: Never used as a manager ! But using it as a team member since 5 years!                        
+[4:42 PM, 12/29/2016] +91 94218 16066: We've been using trello and Asana .. Trello is sweeet .. but basic ...
+asana I'm not as comfortable with it .. and one of the key needs is Reporting ...                        
+[4:42 PM, 12/29/2016] +91 86009 92559: Yes, I'm using JIRA now.
+Asana I used in previous organisation.
+
+We can automate Release management and defects status report with help of JIRA and Asana.
+
+Plugins are also available to generate reports.                        
+[4:43 PM, 12/29/2016] +91 94218 16066: @ShreejeetD using Atlassian Jira?                        
+[4:43 PM, 12/29/2016] +91 86009 92559: Yes                        
+[4:52 PM, 12/29/2016] +91 94218 16066: Any users of https://taiga.io ?                        
+[7:10 PM, 12/29/2016] +91 88882 28010: +1 for Jira 
+It also has many plugins for customisations such as Zypher for test cases.                        
+[7:17 PM, 12/29/2016] +91 73870 99412: Jira                        
+[7:38 PM, 12/29/2016] +91 81495 79699: Jira is costly for the startup scenario!...                        
+[7:40 PM, 12/29/2016] +91 99705 75067: There are open source alternatives for Jira.                        
+[8:34 PM, 12/29/2016] Gopal Sakarkar: Hi all,may i knw next meet-up of our Techies grp?                        
+[8:34 PM, 12/29/2016] +91 77768 22928: What is the status of owasp chapter formation?                        
+[8:41 PM, 12/29/2016] Rakesh Tembhurne: This is from my personal experience.
+
+Trello is very simple to use. It can be used for multiple purposes, but for software projects might not be the best option. Trello cards can be used as Bitbucket issues with some hacks but won't give you much detailed reports.
+
+Zoho - I am personally using some of its paid products but not a fan of Zoho Projects - Feels too much focus on project management than actual development.
+
+Asana - I have used it for some time and I like the tool. But I used it everything other than development issues. Its a good tool. I know it can be used combined with bitbucket to sync asana tasks - BB issues, but haven't tried that.
+
+JIRA - Client suggesting this for upcoming project. Appears to be very useful, especially because it is by Atlassian - same company who built BitBucket and can be integrated with it. It helps a lot because it saves a lot of time if developer by following a few tricks.
+
+Redmine - Its an open source project management software, can be used on your machine/host. Had used it for some time.
+
+GitLab - Its also a developer collaboration software with many other features. Its look and feel is very similar to GitHub, except its available for free as Community Edition. Have used it for some time.                        
+[9:18 PM, 12/29/2016] +91 75886 90177: GitLab is good                        
+[9:43 PM, 12/29/2016] +91 89288 33033: We used gitlab for some time and it's very good                        
+[9:48 PM, 12/29/2016] +91 94218 16066: What's good about trello is checklists.. 
+
+Gitlab doesn't have that                        
+[9:52 PM, 12/29/2016] Rakesh Tembhurne: I think GitLab supports checklists, since it supports markdown you can create checklist in issues. Its very common in GitHub as well                        
+[9:53 PM, 12/29/2016] Rakesh Tembhurne: - [ ] title
+
+This is the syntax                        
+[9:53 PM, 12/29/2016] +91 94218 16066: I mean which can be checked and numbers tracked                        GitLab 7.4 released with task lists and multiple LDAP servers supportCode, test & deploy with GitLab. Everyone can contribute!about.gitlab.com
+[9:54 PM, 12/29/2016] Rakesh Tembhurne: https://about.gitlab.com/2014/10/22/gitlab-7-4-released/
+
+https://github.com/blog/1825-task-lists-in-all-markdown-documents                        
+[9:58 PM, 12/29/2016] +91 89288 33033: We moved to GitHub as it offers much better project management                        
+[10:00 PM, 12/29/2016] Rakesh Tembhurne: Yes, its good. And its paid for private repo. BitBucket is free for small team with more or less features of GitHub                        
+[10:01 PM, 12/29/2016] +91 94218 16066: Github is paid for private repos
+
+Gitlab is free for private repos as well                        
+[10:01 PM, 12/29/2016] +91 94218 16066: Gitlab needs grouping of repos into projects                        
+[10:10 PM, 12/29/2016] +91 84462 86769: You can use Redmine it's open source I guess                        
+[10:10 PM, 12/29/2016] +91 99727 22800: Jira is very good but it's paid tool and very expensive..                        
+[10:11 PM, 12/29/2016] +91 99727 22800: We are using Zoho                        
+[10:11 PM, 12/29/2016] +91 94218 16066: Once you use trello, redmine looks clunky                        
+[10:11 PM, 12/29/2016] +91 99727 22800: It's not very feature rich but has support both on web and app                        
+[10:11 PM, 12/29/2016] +91 94218 16066: How much do you pay for zoho for how many users?                        
+[10:12 PM, 12/29/2016] +91 99727 22800: I also use trello but without integration with zoho                        
+[10:12 PM, 12/29/2016] +91 99727 22800: I am using it's free version                        
+[10:13 PM, 12/29/2016] +91 99727 22800: It serves for 10 users                                                                                                
+[11:53 PM, 12/29/2016] +91 99708 15265: Redmine is a good option and you can try out using Bitnami redmine stack to evaluate                        
+[11:55 PM, 12/29/2016] +91 88882 28010: Again, it's a free tool with available plugins for customization on need basis.                                                
+[11:01 AM, 12/31/2016] +91 98222 20365: Good discussion and experience sharing on the project management tools friends.  Manish I will suggest you to list out your requirements in a use case style in a list here or some public repo, so we can have a comparison matrix built for those requirements from all available tools we have used.  If there is a need of some disruptive new project which will satisfy your needs someone from us may actually take it up as their pet project                        
+[11:02 AM, 12/31/2016] +91 88882 28010: 👍🏻👍🏻                        
+[11:09 AM, 12/31/2016] +91 98222 20365: The basic 10 users plan in JIRA is $100 per year, that is hourly salary of good software engineer in US, JIRA is a very good product but priced or US market.  We need a product equally good but priced for the Indian market like some Rs. 2000 per year, in that case indian small businesses may opt them                        
+[11:13 AM, 12/31/2016] +91 94218 16066: I'm speaking to some of the respondents individually to learn from their experiences as well                        
+[11:14 AM, 12/31/2016] +91 98222 20365: In that case एक ब्लाग पोस्ट तो बनता है man                        
+[11:14 AM, 12/31/2016] +91 94218 16066: Sure, will note things down and post                        
+[11:21 AM, 12/31/2016] +91 99605 59829: Here is my pov from some personal experience in trying to build and sell product for indian userbase market - there are typically three types of orgs in India, 1. service orgs where they just dont want to spend a single dime for licenses and force clients to give them one so thats out 2. US product companies - they generally have license agreements in US and employees use it as is, in India 3. The Indian dev companies making products for india - this market is so small simply because either these companies die to get acquired or get VC funding, once they get VC funding/acquired investors force them to use products they understand hence they are forced later to move to jira and salesforce :(                        
+[11:22 AM, 12/31/2016] +91 99605 59829: investors force to move to known products is so much that at some point they threaten to pull investments out if they dont get a jira/salesforce access to the invested company
