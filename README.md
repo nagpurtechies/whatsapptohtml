@@ -18,8 +18,8 @@ Copy your messages from WhatsApp Web to `messages.txt` file.
 Open `output.html` file in your browser.
 
 ----
-# Author
-Rakesh Tembhurne
+# Contributors
+* [Rakesh Tembhurne](https://rakesh.tembhurne.com)
 
 # License
 
